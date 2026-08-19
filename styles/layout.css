@@ -10,7 +10,6 @@
 
   h1 {
     @apply text-6xl leading-20;
-    font-weight: 1000;
   }
 
   h1 + p {
@@ -24,7 +23,7 @@
   }
 }
 
-.slidev-layout.default {
+.slidev-layout {
   h1 {
     font-weight: 1000;
   }
